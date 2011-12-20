@@ -1,0 +1,6 @@
+*.class
+/.classpath
+/.project
+/.settings/
+
+/src/main/webapp/VAADIN/widgetsets/org.muntiacus.MuntjacWidgetSet/
