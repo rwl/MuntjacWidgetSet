@@ -197,11 +197,6 @@
    <version>0.3</version>
 </dependency>
 
-<dependency>
-   <groupId>org.vaadin.addons</groupId>
-   <artifactId>codemirror</artifactId>
-   <version>0.9.3</version>
-</dependency>
 
 <dependency>
    <groupId>org.vaadin.addons</groupId>
@@ -215,11 +210,31 @@
    <version>0.2.2</version>
 </dependency>
 
+<dependency>
+   <groupId>org.vaadin.addons</groupId>
+   <artifactId>svgcomponent</artifactId>
+   <version>0.3</version>
+</dependency>
+
   	<dependency>
   		<groupId>com.google.gwt</groupId>
   		<artifactId>gwt-incubator</artifactId>
   		<version>2.0.1</version>
   	</dependency>
+  	<dependency>
+  		<groupId>org.vaadin.addons</groupId>
+  		<artifactId>googlemapwidget</artifactId>
+  		<version>0.9.13</version>
+  	</dependency>
+  	
+  	<dependency>
+    <groupId>com.google.code.gwt-google-apis</groupId>
+    <artifactId>gwt-maps</artifactId>
+    <version>1.1.1</version>
+    <scope>system</scope>
+    <systemPath>${project.basedir}/lib/gwt-maps.jar</systemPath>
+</dependency>
+
   </dependencies>
 
 </project>
