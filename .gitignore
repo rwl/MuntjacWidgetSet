@@ -2,5 +2,6 @@
 /.classpath
 /.project
 /.settings/
+/target/*
 
-/src/main/webapp/VAADIN/widgetsets/org.muntiacus.MuntjacWidgetSet/
+/src/main/webapp/VAADIN/widgetsets/*

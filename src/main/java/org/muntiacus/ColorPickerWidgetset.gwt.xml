@@ -25,29 +25,6 @@
     -->
   	<!-- <set-property name="user.agent" value="gecko1_8,safari"/>  -->
 
+    <inherits name="com.vaadin.addon.colorpicker.gwt.ColorPickerWidgetset" />
 
-    <inherits name="org.vaadin.risto.stepper.widgetset.StepperWidgetset" />
-
-    <inherits name="org.vaadin.hezamu.canvas.widgetset.CanvastestWidgetset" />
-
-    <inherits name="org.vaadin.csstools.CssToolsWidgetset" />
-
-    <inherits name="org.vaadin.weelayout.WeelayoutWidgetset" />
-
-    <inherits name="com.vaadin.addon.colorpicker.gwt.ColorPickerWidgetSet" />
-
-    <inherits name="org.vaadin.hezamu.googlemapwidget.widgetset.GooglemapwidgetWidgetset" />
-
-    <inherits name="org.vaadin.svg.widgetset.VsvgwebWidgetset" />
-
-    <inherits name="org.vaadin.codemirror2.CodeMirror2Widgetset" />
-
-    <inherits name="com.invient.vaadin.charts.widgetset.InvientChartsWidgetset" />
-
-    <script src="jquery/jquery-1.4.4.min.js" />
-    <script src="js/highcharts.js" />
-    <script src="js/modules/exporting.js" />
-
-
-    <inherits name="com.github.wolfie.refresher.RefresherApplicationWidgetset" />
 </module>
